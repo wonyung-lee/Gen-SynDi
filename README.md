@@ -61,4 +61,4 @@ pause
 This sequence will guide you through generating a virtual patient, conducting a history-taking session, and evaluating the diagnostic skills. Each step is designed to help users understand and practice syndrome differentiation in a systematic manner.
 
 ## Acknowledgments
-Gen-SynDi was developed by Wonyung Lee to improve syndrome differentiation education in traditional medicine using cutting-edge generative AI techniques. Special thanks to all contributors and collaborators who provided invaluable support.
+Gen-SynDi was developed by Wonyung Lee et al., to improve syndrome differentiation education in traditional medicine using cutting-edge generative AI techniques. Special thanks to all contributors and collaborators who provided invaluable support.
